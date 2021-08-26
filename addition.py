@@ -16,9 +16,9 @@ while a==True:
     
     print("Addition of three numbers is"," :-- ",sum)
 
-    print()
-    print("\t\t======================================")
-    print()
+   
+    
+    print ("\t poojth first edit")
 
     d=input("Do tou want to do it again ??   Y / N -- ").lower()
     
