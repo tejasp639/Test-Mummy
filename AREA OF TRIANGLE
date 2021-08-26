@@ -1,6 +1,6 @@
-a = 5
+a = 2
 b = 6
-c = 7
+c = 9
 # a = float(input('Enter first side: '))
 # b = float(input('Enter second side: '))
 # c = float(input('Enter third side: '))
